@@ -43,4 +43,3 @@
 <a href="nuccio.claudio98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nuccio.claudio98@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
