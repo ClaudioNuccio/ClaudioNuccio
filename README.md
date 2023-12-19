@@ -2,7 +2,7 @@
 <h2> Hey there! I'm Claudio</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Java Back End Programming at Develhope.
 - 💼 &nbsp; Currently looking for employement!.
 - 🌱 &nbsp; Learning more about Front-End development through HTML , CSS and Angular.
