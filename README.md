@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/claudio-nuccio-0796322a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Claudio%20Nuccio-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-claudio_nuccio-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/claudio_nuccio?igshid=YTQwZjQ0Nml0OA=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-claudio_nuccio-blue?style=flat-square&logo=instagram"></a>
 <a href="nuccio.claudio98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nuccio.claudio98@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
