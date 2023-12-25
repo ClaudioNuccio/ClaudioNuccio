@@ -26,12 +26,8 @@
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
 - 🖥 &nbsp;
  ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=radical)
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
