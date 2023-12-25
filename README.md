@@ -27,7 +27,7 @@
 - 🖥 &nbsp;
  ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&layout=donut)](https://github.com/ClaudioNuccio/github-readme-stats)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
