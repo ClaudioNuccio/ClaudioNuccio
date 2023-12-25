@@ -30,7 +30,7 @@
 
 <a href="https://github.com/ClaudioNuccio">
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=algolia&show_icons=true)](https://github.com/ClaudioNuccio)
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
+   [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioNuccio&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ClaudioNuccio)
 </a>
 <br/>
 
