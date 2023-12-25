@@ -30,7 +30,6 @@
 
 <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&layout=donut)](https://github.com/ClaudioNuccio/github-readme-stats)
 
 <br/>
 
