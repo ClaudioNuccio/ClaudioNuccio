@@ -31,9 +31,8 @@
 <a href="https://github.com/ClaudioNuccio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=buefy&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClaudioNuccio)](https://github.com/ClaudioNuccio/github-readme-stats)
 </a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=tokyonight)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
