@@ -34,7 +34,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio)](https://github.com/ClaudioNuccio/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=radical)
 
 <br/>
 
