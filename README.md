@@ -31,7 +31,6 @@
 <a href="https://github.com/ClaudioNuccio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=buefy&show_icons=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ClaudioNuccio" frameborder="0">
 </a>
 
 <br/>
