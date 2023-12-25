@@ -29,13 +29,11 @@
 
 
 <br/>
-
-<a href="https://github.com/ClaudioNuccio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
-</a>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&layout=donut)](https://github.com/ClaudioNuccio/github-readme-stats)
+
+
+
 
 <br/>
 
