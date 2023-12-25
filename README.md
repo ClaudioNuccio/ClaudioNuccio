@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 - 🛢 &nbsp;
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
@@ -29,8 +29,8 @@
 <br/>
 
 <a href="https://github.com/ClaudioNuccio">
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=algolia&show_icons=true)](https://github.com/ClaudioNuccio)
-   [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ClaudioNuccio&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ClaudioNuccio)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&theme=buefy&layout=compact" />
 </a>
 <br/>
 
