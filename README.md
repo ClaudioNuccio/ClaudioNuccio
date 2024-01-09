@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Java Back End Programming at Develhope.
 - 💼 &nbsp; Currently looking for employement!
-- 🌱 &nbsp; Learning more about Front-End development through HTML , CSS and Angular.
+- 🌱 &nbsp; Learning more about Front-End development through HTML , CSS and Javascript.
 - ✍️ &nbsp; Pursuing Creative Writing and Guitar as hobbies and side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
