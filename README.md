@@ -29,8 +29,6 @@
  ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioNuccio&theme=default_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioNuccio&layout=compact)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
